@@ -2,8 +2,8 @@
 #define __VIEW_H__
 
 #include <string>
-#include "Led.h"
 #include "LightState.h"
+#include "Led.h"
 #include "LCD.h"
 
 
